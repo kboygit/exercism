@@ -1,2 +1,7 @@
-ruby exercises
-- [x] [hello_world](http://exercism.io/)
+- [Exercism Profile](http://exercism.io/kboygit)
+Done:
+- [x] [hello-world]
+- [x] [hamming]
+- [x] [rna transcription]
+- [x] [Gigasecond]
+- [x] [Raindrops]
